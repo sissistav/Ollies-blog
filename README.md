@@ -8,4 +8,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 After the npm start please run
 ### `npx json-server@latest --watch data/db.json --port 8000` 
 
-so the json-server could run
+so the json-server could start
